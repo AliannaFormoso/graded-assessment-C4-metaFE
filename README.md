@@ -40,13 +40,9 @@ The four client personas offer a great variety for you to choose from. They are:
 - Restaurant: Little Lemon  
 - Luxury jewelry: Mangata and Gallo
 
-<br/>
-
 ### Example of a home page's structure
 
 ![Example of a home page's structure](images/pageexample-.png)
-
-<br/>
 
 ### 🛠 Tools
 
@@ -60,8 +56,6 @@ The four client personas offer a great variety for you to choose from. They are:
  |Git|2.36.1|
  |Github repository| |
 
-<br/>
-
 ### 🔗 Important links
 
 - Django: https://www.djangoproject.com/
@@ -70,13 +64,9 @@ The four client personas offer a great variety for you to choose from. They are:
 - Git: https://git-scm.com/
 - Github: https://github.com/
 
-<br/>
-
 ### 🔑 License
 
 - [MIT License](LICENSE)
-
-<br/>
 
 #### 📚 Resources
 
