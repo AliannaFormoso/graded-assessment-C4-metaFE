@@ -16,10 +16,10 @@ function submitform() {
     let textdream = document.getElementById("knowuser").value;
     let weekdayintern = document.getElementById("date").value;
     let weekday = days[new Date(weekdayintern).getDay()];
+    let email = document.getElementById("email").value;
 
-    if (textdream === "" || datepicker === "") {
-        alert("Form must be fully filled");
-        
+    if (textdream === "" || datepicker === "" || email === "") {
+        swal("Check the form", "Form must be fully filled", "error");
         return false;
     } else {
         alert(`    Great! Thanks for your appointment!

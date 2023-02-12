@@ -50,19 +50,11 @@ The four client personas offer a great variety for you to choose from. They are:
  |----|--------|
  |HTML|5|
  |CSS|3.10.4|
- |JavaScript| EM6|
+ |JavaScript| ES6|
  |JQuery|3.6.3|
  |Visual Studio Code| 1.75.0|
  |Git|2.36.1|
  |Github repository| |
-
-### 🔗 Important links
-
-- Django: https://www.djangoproject.com/
-- Python: https://www.python.org/
-- Visual: Studio Code https://code.visualstudio.com/
-- Git: https://git-scm.com/
-- Github: https://github.com/
 
 ### 🔑 License
 
